@@ -1,2 +1,6 @@
 a=this is my python file
 print(a)
+
+t=100
+b=200
+print(a+b)
